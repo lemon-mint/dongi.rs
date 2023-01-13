@@ -1,2 +1,3 @@
 # dongi.rs
-rust dongi
+
+A sync tool for your files and directories

@@ -2,6 +2,9 @@
 name = "dongi"
 version = "0.1.0"
 edition = "2021"
+description = "A sync tool for your files and directories"
+authors = ["Lemon Mint"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
